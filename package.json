@@ -1,0 +1,16 @@
+{
+  "name": "demo-dart-sass",
+  "version": "1.0.0",
+  "description": "Demo dart sass to study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.34.0",
+    "sass-loader": "^12.0.0",
+    "webpack": "^5.38.1"
+  }
+}
